@@ -1,5 +1,6 @@
 {
       "name":"HelloWorld",
+      "version":"0.1.1",
       "description":"My first plugin",
       "namespace":"HelloWorld",
       "author":"Christian Moll",
